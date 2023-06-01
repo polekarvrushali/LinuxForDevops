@@ -1,0 +1,16 @@
+Linux For DevOps
+Shell Scripting and BASH 
+Python Basics and Data Structures
+Python Project for Your Resume
+Git and GitHub in one Video
+Docker Explained for Beginners with Project
+AWS Setup
+AWS Important services
+AWS Lambda project
+Jenkins Setup and Installation
+Jenkins CI/CD with Project
+YAML For Beginners
+Ansible Tutorial
+Kubernetes Tutorial
+Kubernetes Project
+Terraform for Beginners
